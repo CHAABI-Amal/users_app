@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444754623695",
+    "project_id": "indriver-clone-amal",
+    "storage_bucket": "indriver-clone-amal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444754623695:android:68038582716226cedd0bba",
+        "android_client_info": {
+          "package_name": "com.amal.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQeAySMKIECAeZtkca3n4vGwVg5U-xag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
